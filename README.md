@@ -322,7 +322,7 @@ Mọi Pull Request đều được chào đón.
 # Fork Repository
 
 # Clone
-git clone https://github.com/yourname/vietnamese-seo-analyzer.git
+git clone https://github.com/nnhatnam05/vietnamese-seo-analyzer.git
 
 # Create Branch
 git checkout -b feature/new-feature
